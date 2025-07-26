@@ -1,0 +1,6 @@
+// media.json
+[
+  { "type": "Anime", "title": "Spy x Family", "status": "Watching" },
+  { "type": "Game", "title": "Bear and Breakfast", "status": "In Progress" },
+  { "type": "Book", "title": "Atomic Habits", "status": "Read" }
+]

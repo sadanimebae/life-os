@@ -1,0 +1,6 @@
+// tools.json
+[
+  { "name": "Notion", "status": "Active", "cost": "$0" },
+  { "name": "Duolingo", "status": "Active", "cost": "$12.99" },
+  { "name": "Vercel", "status": "Free Plan", "cost": "$0" }
+]
